@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gitkeniwo.github.io/academic-homepage/sitemap.xml
+Sitemap: https://gitkeniwo.tech/academic-homepage/sitemap.xml
